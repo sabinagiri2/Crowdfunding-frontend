@@ -66,6 +66,3 @@ Crowdfunding-frontend/
 - Payment integration
 - Admin dashboard
 
-## Backend Integration
-
-The frontend will communicate with the Crowdfunding Django REST Framework backend through REST APIs.
